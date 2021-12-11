@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60mm"
+   height="60mm"
+   viewBox="0 0 59.999999 59.999999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Spine.svg"
+   inkscape:export-filename="D:\Projects\hackathon2021-second003\UnityProject\Snnkake\Assets\Tsuji\Sprites\Spine.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2"
+     inkscape:cx="80.75"
+     inkscape:cy="99.75"
+     inkscape:window-width="1822"
+     inkscape:window-height="1057"
+     inkscape:window-x="90"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="60mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.428792,-46.645644)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke:none;stroke-width:5;stroke-linejoin:bevel"
+       id="path1176"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="-73"
+       sodipodi:cy="-55.5"
+       sodipodi:r1="30.439489"
+       sodipodi:r2="15.219745"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -46.638629,-40.280255 -52.722742,0 L -73,-85.939489 Z"
+       transform="matrix(0.30110346,0,0,0.30110346,94.204429,91.451552)"
+       inkscape:transform-center-y="-8.6011009"
+       inkscape:transform-center-x="6.8800345e-06"
+       inkscape:export-filename="D:\Projects\hackathon2021-second003\UnityProject\Snnkake\Assets\Tsuji\Sprites\Spine.png"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960" />
+  </g>
+</svg>
