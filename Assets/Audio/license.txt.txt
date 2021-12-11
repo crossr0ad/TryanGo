@@ -1,0 +1,4 @@
+bgm
+ game_bgm | GB-Action-C03-1(Stage2) | OtoLogic
+SE
+ player_jump | GB-Action01-01(Jump) | OtoLogic
